@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Các tệp cấu hình cục bộ
+*.ini
+*.cfg
